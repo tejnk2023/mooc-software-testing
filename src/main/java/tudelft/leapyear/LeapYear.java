@@ -1,6 +1,6 @@
 package tudelft.leapyear;
 
-public class LeapYear {
+public class    LeapYear {
 
     public boolean isLeapYear(int year) {
         if ( year % 400 == 0)
